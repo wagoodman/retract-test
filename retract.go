@@ -1,3 +1,3 @@
 package retracttest
 
-const Stuff = "good"
+const Stuff = "bad"
